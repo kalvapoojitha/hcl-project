@@ -1,5 +1,5 @@
 # Vehicle Counter
-Contador de veículos escrito em Python e OpenCV.
+Vechile Dection and Vechile Counting Using Opencv
 <br><br>
 Libraries Used:
 - OpenCV
