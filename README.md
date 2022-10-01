@@ -1,7 +1,7 @@
 # Vehicle Counter
 Contador de veículos escrito em Python e OpenCV.
 <br><br>
-Você vai precisar:
+Libraries Used:
 - OpenCV
 - Numpy
 - Time
